@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main {
+    text-align: center;
+    background: lightpink;
+    height: 100vh;
+    padding-top: 10rem;
+}
+h1 {
+    font-size: 4rem;
+    color: white;
+}
+span {
+    font-size: 5rem;
+    color: white;
+}
